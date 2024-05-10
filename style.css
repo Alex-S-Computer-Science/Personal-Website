@@ -42,3 +42,6 @@ iframe {
     width: 0;
     height: 0;
 }
+table {
+     border: 2;
+}
