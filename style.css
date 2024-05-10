@@ -37,3 +37,8 @@ footer {
     font-style: italic;
     padding: 1em 1em 1em 2em;
 }
+iframe {
+    border: 1px;
+    width: 0;
+    height: 0;
+}
