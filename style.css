@@ -39,9 +39,10 @@ footer {
 }
 iframe {
     border: 1px;
-    width: 0;
-    height: 0;
+    margin: 20px;
+    height: 600px;
+    width: 500px;
 }
 table {
-     border: 2;
+     border: 2px;
 }
